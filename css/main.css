@@ -1,0 +1,14 @@
+ul a:hover {
+  color: orange;
+}
+
+button.green{
+  background-color: green;
+  border: none;
+}
+button.yellow{
+  border: none;
+}
+button.orange {
+  text-shadow: 2px;
+}
